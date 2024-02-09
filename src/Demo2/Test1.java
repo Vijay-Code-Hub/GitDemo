@@ -13,6 +13,7 @@ public class Test1 {
 		driver.get("https://mail.google.com/mail/u/1/?ogbl#inbox");
 		driver.manage().window().maximize();
 		System.out.println(driver.getCurrentUrl());
+		System.out.println("Hi this is git Demo");
 		
 
 	}
