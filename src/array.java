@@ -18,10 +18,6 @@ public class array {
 			}
 		}
 		System.out.println(a[1]);
-
-		
-
-
 	}
 
 }
