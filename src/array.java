@@ -18,6 +18,8 @@ public class array {
 			}
 		}
 		System.out.println(a[1]);
+		System.out.println("this is new add");
+		System.out.println("This is other index");
 
 	}
 
